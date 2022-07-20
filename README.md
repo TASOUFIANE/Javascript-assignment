@@ -1,2 +1,2 @@
 # Javascript-assignment
-This is a simple challenge
+This is a simple challenge.
